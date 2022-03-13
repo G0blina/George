@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Hind:wght@300&family=Lato:wght@100&family=Open+Sans+Condensed:wght@300&family=Oswald:wght@300&family=Roboto:wght@100&family=Smooch+Sans:wght@100&family=Ubuntu&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Hind:wght@300&family=Lato:wght@100&family=Montserrat:wght@100&family=Niconne&family=Open+Sans+Condensed:wght@300&family=Oswald:wght@300&family=Roboto:wght@100&family=Smooch+Sans:wght@100&family=Ubuntu&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Hind:wght@300&family=Lato:wght@100&family=Niconne&family=Open+Sans+Condensed:wght@300&family=Oswald:wght@300&family=Roboto:wght@100&family=Smooch+Sans:wght@100&family=Ubuntu&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+header {
+  width: 100%;
+  height: 1000px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(https://media.istockphoto.com/photos/abstract-design-black-background-scratch-weathered-picture-id979388112?k=20&m=979388112&s=170667a&w=0&h=kCtTNttH7UFq3uxpKJqAtqt9aWoYBoQtsNVyG05cOhc=);
+}
+nav {
+  background-color: black;
+}
+nav div a {
+  color: rgba(255, 255, 255, 0.705);
+  font-size: 20px;
+}
+.navbar-nav a {
+  color: rgba(255, 255, 255, 0.726);
+}
+.navbar-nav a:hover {
+  color: white;
+}
+
+.navbar-brand {
+  justify-content: center;
+  color: black;
+}
+.navbar-brand:hover {
+  color: black;
+}
+
+.ic1 {
+  color: white;
+}
+.icon ul li {
+  color: white;
+}
+.icon ul {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+.icon {
+  float: right;
+  width: 60%;
+  display: flex;
+  align-items: center;
+}
+.tv {
+  width: 100%;
+  height: 900px;
+}
+.tv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.tv b {
+  font-size: 50px;
+  color: white;
+}
+.tv p {
+  color: white;
+  font-size: 50px;
+  font-family: "Niconne", cursive;
+}
+main {
+  height: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://media.istockphoto.com/photos/abstract-design-black-background-scratch-weathered-picture-id979388112?k=20&m=979388112&s=170667a&w=0&h=kCtTNttH7UFq3uxpKJqAtqt9aWoYBoQtsNVyG05cOhc=);
+}
+.admin {
+  width: 700px;
+  height: 1000px;
+  border: 2px solid rgb(247, 247, 247);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.admin1 {
+  width: 600px;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
+.admin2 b {
+  color: white;
+}
+.admin2 i {
+  color: white;
+}
+.admin2 p {
+  color: white;
+  font-size: 30px;
+}
+.admin2 span {
+  color: white;
+  font-size: 17px;
+}
+.song {
+  height: 500px;
+  width: 600px;
+  background-image: url(https://static.wixstatic.com/media/3e3391443ed346b7ae6740fdcd37aa68.jpg/v1/fill/w_740,h_493,al_c,q_90/3e3391443ed346b7ae6740fdcd37aa68.webp);
+}
+.spani1 {
+  margin-top: 20px;
+}
+.line1 {
+  height: 1px;
+  width: 600px;
+  background-color: rgba(255, 255, 255, 0.705);
+  margin-top: 40px;
+}
+.line2 {
+  height: 1px;
+  width: 600px;
+  background-color: rgba(255, 255, 255, 0.705);
+}
